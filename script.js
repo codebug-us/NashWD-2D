@@ -4,7 +4,10 @@
 
 
 
-
+var myName = "Ford";
+var myAge = "18";
+var myFavoriteColor = "purple";
+var myFavoriteHobby = "coding";
 
 
 
